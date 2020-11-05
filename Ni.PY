@@ -96,7 +96,7 @@ def menu():
         print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
         print
         print "\033[1;91mATTACK ON Indian Ids"
-        print "\033[1;92m[1]  NI+234 8
+        print "\033[1;92m[1]  NI+2348"
         print "\033[1;92m[2]  starter 918 "
         print "\033[1;92m[3]  starter 917"
         print "\033[1;92m[4]  my whatapp group"
