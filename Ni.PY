@@ -133,11 +133,11 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;95m156 "
+                print "\033[1;95m82, 83, 84, 85, 86, 87, 88, 89"
                 print "\033[1;95m"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+2348"
+                        k="+234"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
