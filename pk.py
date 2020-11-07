@@ -113,8 +113,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;95m536, 559, 621, 005, 198, 935, 936 "
-                print "\033[1;95m559, 621, 651, 695, 794, 956, 793,"
+                print "\033[1;97m1::::::::to::::::::49"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="03"
