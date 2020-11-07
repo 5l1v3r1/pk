@@ -1,7 +1,7 @@
 #CYBER NAME BLACK-KILLER
 #GITHUB: https://github.com/ShuBhamg0sain
 #WHATAPP NO +919557777030
-import os ,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(1000000):
 
@@ -117,39 +117,7 @@ def action():
                 print "\033[1;95m559, 621, 651, 695, 794, 956, 793,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+919"
-                        idlist = ('.txt')
-                        for line in open(idlist,"r").readlines():
-                                id.append(line.strip())
-                except IOError:
-                        print ("[!] File Not Found")
-                        raw_input("\n[ Back ]")
-                        menu()
-        elif bch =="2":
-                os.system("clear")
-                print (logo)
-                print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m009, 127, 173, 174, 175,"
-                print "\033[1;95m400, 756, 853, 953,"
-                try:
-                        c = raw_input(" SELECTED CODE: ")
-                        k="+918"
-                        idlist = ('.txt')
-                        for line in open(idlist,"r").readlines():
-                                id.append(line.strip())
-                except IOError:
-                        print ("[!] File Not Found")
-                        raw_input("\n[ Back ]")
-                        menu()
-        elif bch =="3":
-                os.system("clear")
-                print (logo)
-                print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
-                try:
-                        c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="03"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
